@@ -1,0 +1,6 @@
+node_modules/
+target/
+.env
+build/
+dist/
+*.log
